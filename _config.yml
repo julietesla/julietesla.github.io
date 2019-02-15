@@ -42,10 +42,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
+#defaults:
+#  -
+#    scope:
+#      path: ""
+#      type: "pages"
+#    values:
+#      layout: "default"
