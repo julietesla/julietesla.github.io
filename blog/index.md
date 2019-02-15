@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Blog
+order: 4
 ---
 
 {% for post in site.posts %}
