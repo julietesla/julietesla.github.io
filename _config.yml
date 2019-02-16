@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Black Yoga
-email: julie@blackyoga.cz
+#email: julie@blackyoga.cz
+email: julie.tesla@centrum.cz
 author: Julie Tesla
 description: >- # this means to ignore newlines until "baseurl:"
   Jsem lektorka power jógy a jógu se snažím přiblížit i lidem, které by jinak nenapadlo, 
