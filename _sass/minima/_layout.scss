@@ -189,6 +189,18 @@
 }
 
 
+/**
+ * home page
+ */
+.home {
+  display: flex;
+  flex-direction: row;
+}
+.home img {
+  width: 100%;
+  border: 1px solid $text-color;
+}
+
 
 /**
  * Page content
