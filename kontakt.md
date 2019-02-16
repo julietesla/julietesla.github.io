@@ -6,6 +6,6 @@ order: 5
 
 Julie Tesla
 
-[julie@blackyoga.cz](mailto:julie@blackyoga.cz)
+[{{ site.email }}](mailto:{{ site.email }})
 
 +420 728 923 890
