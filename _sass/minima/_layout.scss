@@ -3,7 +3,7 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  //border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
 
@@ -80,6 +80,7 @@
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
+    text-transform: uppercase;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -113,7 +114,7 @@
     }
 
     border-width: 1px 0;
-    border-color: black;
+    border-color: $text-color;
     border-radius: 0px;
   }
 }
@@ -124,7 +125,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  //border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
 }
 
