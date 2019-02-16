@@ -4,10 +4,13 @@ permalink: /o-mne/
 order: 1
 ---
 
-Jmenuju se Julie, je mi 34, jsem z Brna a o cvičení jógy jsem se poprvé pokusila zhruba před pěti lety. Od
-té doby jsem vyzkoušela hodně různých stylů a musím říct, že mě baví všechny – klidně se nechám mučit
-při ashtanga vinyasa józe, zpotím se při hot józe nebo se protáhnu při jin józe. Jako lektorka se teď nejvíc
-věnuju silovým sestavám zaměřeným hlavně na posílení středu těla a hlubokého stabilizačního systému,
-ale občas svoje cvičence překvapím i relaxační lekcí.
+Jmenuju se Julie, je mi 34, jsem z Brna a o cvičení jógy jsem se poprvé pokusila zhruba před pěti lety. Od té doby jsem vyzkoušela hodně různých stylů a musím říct, že mě baví všechny – klidně se nechám mučit při ashtanga vinyasa józe, zpotím se při hot józe nebo se protáhnu při jin józe. Jako lektorka se nejvíc zaměřuju na posilování hlubokého stabilizačního systému a obecně na silovější styl jógy, ale občas svoje cvičence překvapím i relaxační lekcí.
 
-Zbytek textu jsem zapomněla.
+V životě se neřídím žádným mottem, protože se nejsem schopná řídit ani receptem, natož žít podle nějakého moudra, ale kdyby mi někdo držel pistoli u hlavy, vybrala bych si jako svoje krédo slavnou větu z Přeletu nad kukaččím hnízdem: „Aspoň jsem to zkusil!“
+
+
+Licence a certifikáty:
+- 2018 Technika jógových pozic – workshop
+- 2018 Silové ásany v dynamických stylech jógy – workshop
+- 2019 Instruktor jógy – akreditovaný kurz MŠMT v Yoga Brno Academy
+- 2019 Pranaynama: základní dechové techniky a krije – workshop
