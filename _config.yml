@@ -19,7 +19,7 @@ email: julie.tesla@centrum.cz
 author: Julie Tesla
 description: >- # this means to ignore newlines until "baseurl:"
   Jsem lektorka power jógy a jógu se snažím přiblížit i lidem, které by jinak nenapadlo, 
-  že by pro ně toto cvičení mohlo být vhodné nebo že by je vůbec mohlo bavit.
+  že by pro ně tohle cvičení mohlo být vhodné nebo že by je vůbec mohlo bavit.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: BLACK-YOGA-2160972207304068
