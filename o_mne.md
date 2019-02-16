@@ -12,5 +12,5 @@ V životě se neřídím žádným mottem, protože se nejsem schopná řídit a
 Licence a certifikáty:
 - 2018 Technika jógových pozic – workshop
 - 2018 Silové ásany v dynamických stylech jógy – workshop
-- 2019 Instruktor jógy – akreditovaný kurz MŠMT v Yoga Brno Academy
+- 2018/2019 Instruktor jógy – akreditovaný kurz MŠMT v Yoga Brno Academy
 - 2019 Pranaynama: základní dechové techniky a krije – workshop
