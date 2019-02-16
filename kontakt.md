@@ -4,4 +4,8 @@ permalink: /kontakt/
 order: 5
 ---
 
-kontakt na mne
+Julie Tesla
+
+[julie.tesla@centrum.cz](mailto:julie.tesla@centrum.cz)
+
++420 728 923 890

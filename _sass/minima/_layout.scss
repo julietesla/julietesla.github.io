@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  border-top: 5px solid $grey-color-light;
   //border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
@@ -25,7 +25,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $grey-color-light;
   }
 }
 
@@ -125,8 +125,16 @@
  * Site footer
  */
 .site-footer {
-  //border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $grey-color-dark;
   padding: $spacing-unit 0;
+}
+
+.site-footer h2 {
+  color: $grey-color-light;
+}
+
+.site-footer a {
+  //color: darken(desaturate($brand-color, 15%),15%);
 }
 
 .footer-heading {
@@ -142,7 +150,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: $grey-color-light;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -163,6 +171,7 @@
 .footer-col-3 {
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
+  color: $grey-color;
 }
 
 @media screen and (min-width: $on-large) {
@@ -216,6 +225,7 @@
   display: block;
   max-width: 100%;
   height: auto;
+  background-color: $text-color;
   //margin: auto;
   //padding: auto;
   //height: 32%;
@@ -315,13 +325,14 @@
   margin: 0 auto;
   li {
     float: left;
-    margin: 0 5px;
+    //margin: 0 5px;
+    margin: 0;
     &:first-of-type { margin-left: 0 }
     &:last-of-type { margin-right: 0 }
     a {
       display: block;
       padding: $spacing-unit / 4;
-      border: 1px solid $grey-color-light
+      border: 1px solid $grey-color-dark
     }
     &:hover .svg-icon { fill: currentColor; }
   }
