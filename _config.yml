@@ -21,8 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   že by pro ně toto cvičení mohlo být vhodné nebo by je mohlo bavit.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: blackyoga
-instagram_username: blackyoga
+facebook_username: BLACK YOGA
+instagram_username: blackyoga.julie
 
 # Build settings
 markdown: kramdown
