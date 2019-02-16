@@ -6,7 +6,7 @@ order: 1
 
 Jmenuju se Julie, je mi 34, jsem z Brna a o cvičení jógy jsem se poprvé pokusila zhruba před pěti lety. Od té doby jsem vyzkoušela hodně různých stylů a musím říct, že mě baví všechny – klidně se nechám mučit při ashtanga vinyasa józe, zpotím se při hot józe nebo se protáhnu při jin józe. Jako lektorka se nejvíc zaměřuju na posilování hlubokého stabilizačního systému a obecně na silovější styl jógy, ale občas svoje cvičence překvapím i relaxační lekcí.
 
-V životě se neřídím žádným mottem, protože nejsem schopná řídit se ani receptem, natož žít podle nějakého moudra, ale kdyby mi někdo držel pistoli u hlavy, vybrala bych si jako svoje krédo slavnou větu z Přeletu nad kukaččím hnízdem: „Aspoň jsem to zkusil!“
+V životě se neřídím žádným mottem, protože nejsem schopná řídit se ani receptem, natož žít podle nějakého moudra – kdyby mi ale někdo držel pistoli u hlavy, vybrala bych si za krédo slavnou větu z Přeletu nad kukaččím hnízdem: „Aspoň jsem to zkusil!“
 
 
 Licence a certifikáty:
