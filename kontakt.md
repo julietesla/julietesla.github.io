@@ -4,7 +4,7 @@ permalink: /kontakt/
 order: 5
 ---
 
-Julie Tesla
+{{ site.author }}
 
 [{{ site.email }}](mailto:{{ site.email }})
 
