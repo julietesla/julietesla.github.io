@@ -1,5 +1,5 @@
 ---
-title: O mne
+title: O mně
 permalink: /o-mne/
 order: 1
 ---

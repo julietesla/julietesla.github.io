@@ -1,5 +1,5 @@
 ---
-title: Rock yoga
+title: Rock Yoga
 permalink: /rock-yoga/
 order: 2
 ---
