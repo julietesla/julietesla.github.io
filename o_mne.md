@@ -14,3 +14,4 @@ Licence a certifikáty:
 - 2018 Silové ásany v dynamických stylech jógy – workshop v Yoga Brno Academy
 - 2018/2019 Instruktor jógy – akreditovaný kurz MŠMT v Yoga Brno Academy
 - 2019 Pranaynama: základní dechové techniky a krije – workshop v Yoga Brno Academy
+- 2019 Yoga - Fascial Release (Fasciální jóga) - workshop v MY FIT studiu
