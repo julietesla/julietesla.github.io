@@ -4,4 +4,4 @@ permalink: /rock-yoga/
 order: 2
 ---
 
-Rock Yoga je koncept, který jsem vymyslela ve snaze přiblížit jógu i ne úplně duchovně založeným lidem, které děsí výrazy jako „pátá čakra“ nebo „energetické kanály“. Lekce bývají zaměřené spíš silově, hudební podkres sestává z mých oblíbených rockových a metalových songů a celá hodina se nese v uvolněném, někdy i vyloženě nevázaném duchu :)
+Spíš než harmonizovat čakry potřebujete dobít baterky? Chcete vyrýsovat tělo, ale rádi byste udělali i něco pro svoji mysl, na chvíli se zastavili, vyčistili si hlavu a zklidnili se uprostřed každodenního shonu? Rádi si poslechnete dobrou hudbu? Potom je pro vás Rock Yoga jako dělaná!
